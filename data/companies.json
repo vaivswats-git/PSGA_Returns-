@@ -1,0 +1,179 @@
+{
+    "Data Science": [
+        "Amazon",
+        "IBM",
+        "Accenture"
+    ],
+
+    "Web Development": [
+        "Meta",
+        "Shopify",
+        "Wix"
+    ],
+
+    "AI/ML": [
+        "Tesla",
+        "OpenAI",
+        "NVIDIA"
+    ],
+
+    "Cybersecurity": [
+        "Cisco",
+        "Kaspersky",
+        "Palo Alto Networks"
+    ],
+
+    "Software Engineering": [
+        "Google",
+        "Microsoft",
+        "Adobe"
+    ],
+
+    "Doctor": [
+        "Fortis Hospital",
+        "Apollo Hospitals",
+        "AIIMS"
+    ],
+
+    "Nurse": [
+        "Manipal Hospitals",
+        "Max Healthcare",
+        "Narayana Health"
+    ],
+
+    "Psychologist": [
+        "NIMHANS",
+        "BetterHelp",
+        "MindPeers"
+    ],
+
+    "Lawyer": [
+        "Supreme Court Chambers",
+        "AZB & Partners",
+        "Khaitan & Co"
+    ],
+
+    "Teacher": [
+        "Delhi Public School",
+        "BYJU'S",
+        "Unacademy"
+    ],
+    "Professor": [
+        "Harvard University",
+        "Oxford University",
+        "IIT Delhi"
+    ],
+
+    "Chartered Accountant": [
+        "PwC",
+        "Deloitte",
+        "EY"
+    ],
+
+    "Investment Banker": [
+        "Goldman Sachs",
+        "Morgan Stanley",
+        "JP Morgan"
+    ],
+
+    "Entrepreneur": [
+        "Zomato",
+        "Startup India",
+        "Shark Tank Ventures"
+    ],
+
+    "Digital Marketing": [
+        "Google Ads Agency",
+        "HubSpot",
+        "WPP"
+    ],
+
+    "Content Creator": [
+        "YouTube Studio",
+        "Instagram Media House",
+        "BuzzFeed"
+    ],
+
+    "Graphic Designer": [
+        "Canva",
+        "Adobe Creative Studio",
+        "Pentagram"
+    ],
+
+    "Fashion Designer": [
+        "Gucci",
+        "H&M",
+        "Zara"
+    ],
+
+    "Chef": [
+        "Taj Hotels Culinary",
+        "MasterChef Studios",
+        "Marriott Culinary"
+    ],
+
+    "Hotel Management": [
+        "Taj Hotels",
+        "Marriott International",
+        "Hyatt Hotels"
+    ],
+    "Journalist": [
+        "BBC News",
+        "Times of India",
+        "NDTV"
+    ],
+
+    "Civil Services": [
+        "UPSC Services",
+        "Indian Administrative Services",
+        "State Civil Secretariat"
+    ],
+
+    "Pilot": [
+        "IndiGo Airlines",
+        "Air India",
+        "Emirates"
+    ],
+
+    "Fitness Trainer": [
+        "Cult Fit",
+        "Gold's Gym",
+        "Anytime Fitness"
+    ],
+
+    "Photographer": [
+        "National Geographic",
+        "Getty Images",
+        "Vogue Studio"
+    ],
+
+    "Musician": [
+        "Sony Music",
+        "Universal Music Group",
+        "T-Series"
+    ],
+
+    "Actor": [
+        "Netflix Studios",
+        "Warner Bros",
+        "Yash Raj Films"
+    ],
+
+    "Social Worker": [
+        "UNICEF",
+        "WHO Outreach Programs",
+        "Save the Children"
+    ],
+
+    "Event Manager": [
+        "BookMyShow Events",
+        "Wizcraft",
+        "Percept Live"
+    ],
+
+    "Real Estate Agent": [
+        "DLF Realty",
+        "MagicBricks",
+        "99acres"
+    ]
+}

@@ -1,0 +1,389 @@
+{
+    "Data Science": [
+        "Learn Python programming fundamentals",
+        "Master SQL and database querying",
+        "Study statistics and probability",
+        "Learn Pandas for data handling",
+        "Practice data visualization tools",
+        "Study machine learning concepts",
+        "Build real-world data projects",
+        "Create GitHub portfolio",
+        "Practice case studies and interviews",
+        "Apply for data science roles"
+    ],
+
+    "Web Development": [
+        "Learn HTML structure",
+        "Master CSS styling",
+        "Study JavaScript fundamentals",
+        "Learn React framework",
+        "Understand Node.js backend",
+        "Study database integration",
+        "Build responsive websites",
+        "Deploy projects online",
+        "Create strong portfolio",
+        "Apply for web development jobs"
+    ],
+
+    "AI/ML": [
+        "Master Python programming",
+        "Study mathematics for AI",
+        "Learn machine learning basics",
+        "Study deep learning",
+        "Practice TensorFlow",
+        "Learn NLP fundamentals",
+        "Build AI models",
+        "Participate in AI competitions",
+        "Develop portfolio projects",
+        "Apply for AI/ML positions"
+    ],
+
+    "Cybersecurity": [
+        "Learn networking fundamentals",
+        "Master Linux systems",
+        "Study Python scripting",
+        "Learn ethical hacking",
+        "Understand cryptography",
+        "Practice security tools",
+        "Complete cybersecurity labs",
+        "Earn certifications",
+        "Build practical security projects",
+        "Apply for cybersecurity roles"
+    ],
+
+    "Software Engineering": [
+        "Learn Python and Java",
+        "Master data structures",
+        "Study algorithms",
+        "Practice coding problems",
+        "Learn databases",
+        "Understand system design",
+        "Build software applications",
+        "Contribute to GitHub",
+        "Prepare for technical interviews",
+        "Apply for software engineering jobs"
+    ],
+
+    "Doctor": [
+        "Complete medical degree",
+        "Study anatomy and physiology",
+        "Learn diagnosis techniques",
+        "Gain patient care experience",
+        "Study surgery basics",
+        "Improve communication skills",
+        "Complete internships",
+        "Choose specialization",
+        "Gain hospital experience",
+        "Begin professional medical practice"
+    ],
+
+    "Nurse": [
+        "Complete nursing education",
+        "Learn patient care fundamentals",
+        "Master medical procedures",
+        "Practice emergency response",
+        "Improve communication",
+        "Develop empathy and support skills",
+        "Gain hospital internship experience",
+        "Master record keeping",
+        "Earn certifications",
+        "Begin nursing career"
+    ],
+
+    "Psychologist": [
+        "Earn psychology degree",
+        "Study behavior analysis",
+        "Learn counseling techniques",
+        "Study mental health assessment",
+        "Gain research experience",
+        "Practice communication",
+        "Develop empathy",
+        "Gain supervised practical experience",
+        "Build specialization",
+        "Begin psychology career"
+    ],
+
+    "Lawyer": [
+        "Complete law degree",
+        "Study legal research",
+        "Master argumentation",
+        "Develop public speaking",
+        "Practice negotiation",
+        "Learn documentation",
+        "Intern at legal firms",
+        "Pass legal certifications",
+        "Build courtroom experience",
+        "Begin law practice"
+    ],
+
+    "Teacher": [
+        "Choose subject specialization",
+        "Earn teaching qualifications",
+        "Master communication skills",
+        "Learn lesson planning",
+        "Develop classroom management",
+        "Build patience and mentorship",
+        "Gain practical teaching experience",
+        "Study assessment strategies",
+        "Earn certifications",
+        "Begin teaching career"
+    ],
+    "Professor": [
+        "Complete undergraduate degree",
+        "Pursue postgraduate specialization",
+        "Develop strong research skills",
+        "Master academic writing",
+        "Improve teaching abilities",
+        "Build public speaking confidence",
+        "Gain mentorship experience",
+        "Design curriculum expertise",
+        "Publish academic work",
+        "Apply for professor roles"
+    ],
+
+    "Chartered Accountant": [
+        "Study accounting fundamentals",
+        "Learn taxation laws",
+        "Master auditing principles",
+        "Develop Excel expertise",
+        "Study financial reporting",
+        "Understand compliance regulations",
+        "Complete CA certification exams",
+        "Gain internship experience",
+        "Build financial expertise",
+        "Begin chartered accounting career"
+    ],
+
+    "Investment Banker": [
+        "Learn finance fundamentals",
+        "Study market analysis",
+        "Master Excel and financial modeling",
+        "Learn valuation methods",
+        "Develop negotiation skills",
+        "Study risk assessment",
+        "Gain internship in finance",
+        "Build networking connections",
+        "Prepare for banking interviews",
+        "Begin investment banking career"
+    ],
+
+    "Entrepreneur": [
+        "Develop leadership skills",
+        "Learn business strategy",
+        "Master finance basics",
+        "Study marketing techniques",
+        "Build networking connections",
+        "Develop problem-solving ability",
+        "Validate business ideas",
+        "Launch startup/project",
+        "Scale business operations",
+        "Grow entrepreneurial career"
+    ],
+
+    "Digital Marketing": [
+        "Learn SEO fundamentals",
+        "Master social media marketing",
+        "Study content marketing",
+        "Develop branding expertise",
+        "Learn analytics tools",
+        "Study advertising strategies",
+        "Run practical campaigns",
+        "Build portfolio projects",
+        "Earn certifications",
+        "Apply for digital marketing roles"
+    ],
+
+    "Content Creator": [
+        "Learn content strategy",
+        "Master video editing",
+        "Develop storytelling skills",
+        "Build branding identity",
+        "Master social media growth",
+        "Enhance creativity",
+        "Create consistent content",
+        "Grow audience base",
+        "Monetize platforms",
+        "Build full-time creator career"
+    ],
+
+    "Graphic Designer": [
+        "Learn Photoshop",
+        "Master Illustrator",
+        "Study typography",
+        "Learn branding design",
+        "Understand UI basics",
+        "Develop creativity",
+        "Build strong portfolio",
+        "Take freelance/client projects",
+        "Gain professional experience",
+        "Apply for graphic design roles"
+    ],
+
+    "Fashion Designer": [
+        "Learn textile fundamentals",
+        "Practice sketching",
+        "Study fashion trends",
+        "Master sewing techniques",
+        "Develop creativity",
+        "Build design portfolio",
+        "Create collections",
+        "Gain internship experience",
+        "Build personal brand",
+        "Launch fashion career"
+    ],
+
+    "Chef": [
+        "Learn cooking fundamentals",
+        "Master recipe development",
+        "Study food safety",
+        "Develop presentation skills",
+        "Improve time management",
+        "Enhance creativity",
+        "Gain kitchen experience",
+        "Specialize cuisine",
+        "Build culinary portfolio",
+        "Begin chef career"
+    ],
+
+    "Hotel Management": [
+        "Study hospitality basics",
+        "Learn customer service",
+        "Master communication",
+        "Develop management skills",
+        "Learn event planning",
+        "Build leadership",
+        "Gain hotel internship experience",
+        "Understand operations management",
+        "Earn certifications",
+        "Begin hotel management career"
+    ],
+    "Journalist": [
+        "Develop strong writing skills",
+        "Learn research techniques",
+        "Practice interviewing",
+        "Improve communication",
+        "Learn editing skills",
+        "Study storytelling techniques",
+        "Build portfolio articles",
+        "Gain internship experience",
+        "Stay updated with current affairs",
+        "Apply for journalism roles"
+    ],
+
+    "Civil Services": [
+        "Build general knowledge foundation",
+        "Study policy and governance",
+        "Develop leadership skills",
+        "Improve communication",
+        "Learn administration concepts",
+        "Practice critical thinking",
+        "Prepare for competitive exams",
+        "Solve previous year papers",
+        "Stay updated with current affairs",
+        "Clear exams and join civil services"
+    ],
+
+    "Pilot": [
+        "Learn aviation fundamentals",
+        "Study navigation systems",
+        "Develop technical knowledge",
+        "Build decision-making skills",
+        "Maintain discipline and focus",
+        "Complete pilot training program",
+        "Gain flying hours",
+        "Earn certifications",
+        "Pass aviation exams",
+        "Apply for airline jobs"
+    ],
+
+    "Fitness Trainer": [
+        "Study exercise science",
+        "Learn nutrition basics",
+        "Develop physical fitness",
+        "Build motivation techniques",
+        "Improve communication",
+        "Design workout plans",
+        "Gain certification",
+        "Practice with clients",
+        "Build personal brand",
+        "Start fitness training career"
+    ],
+
+    "Photographer": [
+        "Learn camera basics",
+        "Practice editing skills",
+        "Develop creativity",
+        "Study lighting techniques",
+        "Learn branding",
+        "Improve storytelling",
+        "Build photography portfolio",
+        "Take freelance projects",
+        "Specialize in niche",
+        "Launch photography career"
+    ],
+
+    "Musician": [
+        "Learn instrument basics",
+        "Practice regularly",
+        "Develop creativity",
+        "Study music composition",
+        "Perform in small events",
+        "Collaborate with artists",
+        "Build music portfolio",
+        "Record and publish music",
+        "Grow audience base",
+        "Start music career"
+    ],
+
+    "Actor": [
+        "Learn acting fundamentals",
+        "Practice communication",
+        "Develop creativity",
+        "Build emotional intelligence",
+        "Attend acting workshops",
+        "Participate in auditions",
+        "Build public presence",
+        "Network with industry professionals",
+        "Create acting portfolio",
+        "Start acting career"
+    ],
+
+    "Social Worker": [
+        "Develop empathy skills",
+        "Learn counseling basics",
+        "Study community outreach",
+        "Improve problem-solving",
+        "Enhance communication",
+        "Advocate for social causes",
+        "Gain field experience",
+        "Work with NGOs",
+        "Build community impact portfolio",
+        "Start social work career"
+    ],
+
+    "Event Manager": [
+        "Learn event planning basics",
+        "Improve communication",
+        "Study budgeting",
+        "Develop leadership skills",
+        "Enhance creativity",
+        "Practice negotiation",
+        "Plan small events",
+        "Gain industry experience",
+        "Build event portfolio",
+        "Start event management career"
+    ],
+
+    "Real Estate Agent": [
+        "Learn sales fundamentals",
+        "Develop negotiation skills",
+        "Study market trends",
+        "Build networking connections",
+        "Improve customer service",
+        "Enhance communication",
+        "Gain real estate knowledge",
+        "Work with agencies",
+        "Build client base",
+        "Start real estate career"
+    ]
+}

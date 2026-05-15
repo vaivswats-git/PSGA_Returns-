@@ -1,0 +1,41 @@
+{
+    "demo_user": {
+        "completed_courses": [],
+        "mock_test_scores": {
+            "Data Science": [],
+            "Web Development": [],
+            "AI/ML": [],
+            "Cybersecurity": [],
+            "Software Engineering": [],
+            "Doctor": [],
+            "Nurse": [],
+            "Psychologist": [],
+            "Lawyer": [],
+            "Teacher": [],
+            "Professor": [],
+            "Chartered Accountant": [],
+            "Investment Banker": [],
+            "Entrepreneur": [],
+            "Digital Marketing": [],
+            "Content Creator": [],
+            "Graphic Designer": [],
+            "Fashion Designer": [],
+            "Chef": [],
+            "Hotel Management": [],
+            "Journalist": [],
+            "Civil Services": [],
+            "Pilot": [],
+            "Fitness Trainer": [],
+            "Photographer": [],
+            "Musician": [],
+            "Actor": [],
+            "Social Worker": [],
+            "Event Manager": [],
+            "Real Estate Agent": []
+        },
+        "roadmap_progress": {},
+        "skills_improved": [],
+        "career_history": [],
+        "last_updated": "2026-05-06"
+    }
+}

@@ -1,0 +1,38 @@
+html, body, [class*="css"] {
+    background-color: #FDEBEA !important;   /* soft peachy pink */
+    color: #5C4B51 !important;
+    font-family: 'Segoe UI', sans-serif !important;
+}
+
+.stApp {
+    background-color: #FDEBEA !important;
+}
+
+.main, .block-container {
+    background-color: #FDEBEA !important;
+}
+
+section[data-testid="stSidebar"] {
+    background-color: #DDEEDB !important;   /* pastel green */
+}
+
+.stTextInput > div > div > input,
+.stTextArea textarea {
+    background-color: #F8D7DA !important;   /* soft darker pink */
+    border: 2px solid #CFE8CF !important;   /* pastel green border */
+    color: #5C4B51 !important;
+    border-radius: 10px !important;
+}
+
+.stButton > button {
+    background-color: #CFE8CF !important;   /* green pastel */
+    color: #5C4B51 !important;
+    border-radius: 12px !important;
+    border: none !important;
+    font-weight: bold !important;
+}
+
+.stButton > button:hover {
+    background-color: #F6D1B1 !important;   /* peach hover */
+    color: white !important;
+}

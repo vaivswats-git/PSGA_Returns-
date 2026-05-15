@@ -1,0 +1,314 @@
+{
+    "Python": {
+        "title": "Python Full Course for Beginners - freeCodeCamp",
+        "link": "https://www.youtube.com/watch?v=rfscVS0vtbw"
+    },
+    "SQL": {
+        "title": "SQL Tutorial for Beginners - Programming with Mosh",
+        "link": "https://www.youtube.com/watch?v=7S_tz1z_5bA"
+    },
+    "Machine Learning": {
+        "title": "Machine Learning Full Course - freeCodeCamp",
+        "link": "https://www.youtube.com/watch?v=NWONeJKn6kc"
+    },
+    "Statistics": {
+        "title": "Statistics Full Course - Khan Academy",
+        "link": "https://www.khanacademy.org/math/statistics-probability"
+    },
+    "Pandas": {
+        "title": "Pandas Tutorial Full Course - freeCodeCamp",
+        "link": "https://www.youtube.com/watch?v=vmEHCJofslg"
+    },
+    "Data Visualization": {
+        "title": "Data Visualization with Python - freeCodeCamp",
+        "link": "https://www.youtube.com/watch?v=GpOO5iKzOmY"
+    },
+    "HTML": {
+        "title": "HTML Full Course - freeCodeCamp",
+        "link": "https://www.youtube.com/watch?v=pQN-pnXPaVg"
+    },
+    "CSS": {
+        "title": "CSS Full Course - freeCodeCamp",
+        "link": "https://www.youtube.com/watch?v=1Rs2ND1ryYc"
+    },
+    "JavaScript": {
+        "title": "JavaScript Full Course - freeCodeCamp",
+        "link": "https://www.youtube.com/watch?v=PkZNo7MFNFg"
+    },
+    "React": {
+        "title": "React Course for Beginners - freeCodeCamp",
+        "link": "https://www.youtube.com/watch?v=bMknfKXIFA8"
+    },
+    "Node.js": {
+        "title": "Node.js Full Course for Beginners - freeCodeCamp",
+        "link": "https://www.youtube.com/watch?v=RLtyhwFtXQA"
+    },
+    "Databases": {
+        "title": "Database Design Full Course - freeCodeCamp",
+        "link": "https://www.youtube.com/watch?v=ztHopE5Wnpc"
+    },
+    "Deep Learning": {
+        "title": "Deep Learning Full Course - freeCodeCamp",
+        "link": "https://www.youtube.com/watch?v=aircAruvnKk"
+    },
+    "TensorFlow": {
+        "title": "TensorFlow Full Course - freeCodeCamp",
+        "link": "https://www.youtube.com/watch?v=tPYj3fFJGjk"
+    },
+    "NLP": {
+        "title": "Natural Language Processing Full Course - freeCodeCamp",
+        "link": "https://www.youtube.com/watch?v=fOvTtapxa9c"
+    },
+    "Networking": {
+        "title": "Computer Networking Full Course - freeCodeCamp",
+        "link": "https://www.youtube.com/watch?v=qiQR5rTSshw"
+    },
+    "Linux": {
+        "title": "Linux for Beginners Full Course - freeCodeCamp",
+        "link": "https://www.youtube.com/watch?v=sWbUDq4S6Y8"
+    },
+    "Ethical Hacking": {
+        "title": "Ethical Hacking Full Course - freeCodeCamp",
+        "link": "https://www.youtube.com/watch?v=3Kq1MIfTWCE"
+    },
+    "Cryptography": {
+        "title": "Cryptography Full Course - freeCodeCamp",
+        "link": "https://www.youtube.com/watch?v=jhXCTbFnK8o"
+    },
+    "Security Tools": {
+        "title": "Cybersecurity Tools and Techniques - Cybrary",
+        "link": "https://www.cybrary.it/"
+    },
+    "Java": {
+        "title": "Java Programming Full Course - freeCodeCamp",
+        "link": "https://www.youtube.com/watch?v=GoXwIVyNvX0"
+    },
+    "Data Structures": {
+        "title": "Data Structures Easy to Advanced Course - freeCodeCamp",
+        "link": "https://www.youtube.com/watch?v=RBSGKlAvoiM"
+    },
+    "Algorithms": {
+        "title": "Algorithms Full Course - freeCodeCamp",
+        "link": "https://www.youtube.com/watch?v=8hly31xKli0"
+    },
+    "System Design": {
+        "title": "System Design Full Course - freeCodeCamp",
+        "link": "https://www.youtube.com/watch?v=MbjObHmDbZo"
+    },
+    "Diagnosis": {
+        "title": "Clinical Diagnosis Basics - Khan Academy Medicine",
+        "link": "https://www.khanacademy.org/science/health-and-medicine"
+    },
+    "Patient Care": {
+        "title": "Patient Care Technician Course - Alison",
+        "link": "https://alison.com/"
+    },
+    "Surgery Basics": {
+        "title": "Introduction to Surgical Care - Lecturio",
+        "link": "https://www.lecturio.com/"
+    },
+    "Communication": {
+        "title": "Communication Skills Course - Coursera",
+        "link": "https://www.coursera.org/learn/wharton-communication-skills"
+    },
+    "Critical Thinking": {
+        "title": "Critical Thinking Skills - Coursera",
+        "link": "https://www.coursera.org/learn/critical-thinking-skills-for-university-success"
+    },
+    "Public Speaking": {
+        "title": "Public Speaking Full Course - freeCodeCamp",
+        "link": "https://www.youtube.com/watch?v=Unzc731iCUY"
+    },
+    "Argumentation": {
+        "title": "Introduction to Argumentation - Coursera",
+        "link": "https://www.coursera.org/learn/argumentation"
+    },
+    "Classroom Management": {
+        "title": "Classroom Management Fundamentals - Alison",
+        "link": "https://alison.com/course/classroom-management"
+    },
+    "Teaching": {
+        "title": "Foundations of Teaching for Learning - Coursera",
+        "link": "https://www.coursera.org/specializations/teaching"
+    },
+    "Mentorship": {
+        "title": "Coaching and Mentoring Skills - Coursera",
+        "link": "https://www.coursera.org/learn/coaching-skills-for-managers"
+    },
+    "Accounting": {
+        "title": "Introduction to Financial Accounting - freeCodeCamp",
+        "link": "https://www.youtube.com/watch?v=8w2V3jYbR7g"
+    },
+    "Taxation": {
+        "title": "Tax Basics for Beginners - Udemy Free Resources",
+        "link": "https://www.udemy.com/topic/taxation/"
+    },
+    "Auditing": {
+        "title": "Audit and Assurance Basics - Alison",
+        "link": "https://alison.com/"
+    },
+    "Excel": {
+        "title": "Microsoft Excel Full Course - freeCodeCamp",
+        "link": "https://www.youtube.com/watch?v=Vl0H-qTclOg"
+    },
+    "Financial Reporting": {
+        "title": "Financial Reporting Fundamentals - Coursera",
+        "link": "https://www.coursera.org/learn/financial-reporting"
+    },
+    "Market Analysis": {
+        "title": "Market Research and Analysis Course - Coursera",
+        "link": "https://www.coursera.org/learn/market-research"
+    },
+    "Risk Assessment": {
+        "title": "Risk Management Fundamentals - Coursera",
+        "link": "https://www.coursera.org/learn/risk-management"
+    },
+    "Leadership": {
+        "title": "Leadership and Management Course - Coursera",
+        "link": "https://www.coursera.org/specializations/leading-people-teams"
+    },
+    "Business Strategy": {
+        "title": "Business Strategy Specialization - Coursera",
+        "link": "https://www.coursera.org/specializations/business-strategy"
+    },
+    "Problem Solving": {
+        "title": "Problem Solving Skills - Coursera",
+        "link": "https://www.coursera.org/learn/problem-solving"
+    },
+    "SEO": {
+        "title": "SEO Full Course for Beginners - freeCodeCamp",
+        "link": "https://www.youtube.com/watch?v=xsVTqzratPs"
+    },
+    "Content Marketing": {
+        "title": "Content Marketing Certification - HubSpot Academy",
+        "link": "https://academy.hubspot.com/courses/content-marketing"
+    },
+    "Branding": {
+        "title": "Brand Management Course - Coursera",
+        "link": "https://www.coursera.org/learn/brand"
+    },
+    "Analytics": {
+        "title": "Google Analytics for Beginners",
+        "link": "https://analytics.google.com/analytics/academy/"
+    },
+    "Video Editing": {
+        "title": "Video Editing Full Course - freeCodeCamp",
+        "link": "https://www.youtube.com/watch?v=O6ERELse_QY"
+    },
+    "Social Media": {
+        "title": "Social Media Marketing Course - Meta",
+        "link": "https://www.coursera.org/professional-certificates/facebook-social-media-marketing"
+    },
+    "Storytelling": {
+        "title": "Storytelling for Content Creation - Coursera",
+        "link": "https://www.coursera.org/learn/storytelling-and-influencing"
+    },
+    "Photoshop": {
+        "title": "Adobe Photoshop Full Course - freeCodeCamp",
+        "link": "https://www.youtube.com/watch?v=IyR_uYsRdPs"
+    },
+    "Typography": {
+        "title": "Typography Fundamentals - Skillshare Free Classes",
+        "link": "https://www.skillshare.com/en/browse/typography"
+    },
+    "UI Basics": {
+        "title": "UI/UX Design Full Course - freeCodeCamp",
+        "link": "https://www.youtube.com/watch?v=c9Wg6Cb_YlU"
+    },
+    "Textile Knowledge": {
+        "title": "Textile Design Basics - Alison",
+        "link": "https://alison.com/"
+    },
+    "Sketching": {
+        "title": "Fashion Sketching for Beginners - YouTube",
+        "link": "https://www.youtube.com/results?search_query=fashion+design+sketching+for+beginners"
+    },
+    "Sewing": {
+        "title": "Sewing Basics for Beginners - YouTube",
+        "link": "https://www.youtube.com/results?search_query=sewing+for+beginners"
+    },
+    "Cooking": {
+        "title": "Cooking Basics Full Course - YouTube",
+        "link": "https://www.youtube.com/results?search_query=cooking+basics+for+beginners"
+    },
+    "Time Management": {
+        "title": "Time Management Fundamentals - Coursera",
+        "link": "https://www.coursera.org/learn/work-smarter-not-harder"
+    },
+    "Food Safety": {
+        "title": "Food Safety and Hygiene Course - Alison",
+        "link": "https://alison.com/course/food-safety-and-hygiene"
+    },
+    "Customer Service": {
+        "title": "Customer Service Fundamentals - Coursera",
+        "link": "https://www.coursera.org/learn/customer-service-fundamentals"
+    },
+    "Event Planning": {
+        "title": "Event Management Foundations - Coursera",
+        "link": "https://www.coursera.org/courses?query=event%20management"
+    },
+    "Writing": {
+        "title": "Academic and Business Writing - Coursera",
+        "link": "https://www.coursera.org/specializations/academic-english"
+    },
+    "Administration": {
+        "title": "Business Administration Basics - Alison",
+        "link": "https://alison.com/course/business-administration"
+    },
+    "Aviation Knowledge": {
+        "title": "Aviation Fundamentals - freeCodeCamp/YouTube",
+        "link": "https://www.youtube.com/results?search_query=aviation+fundamentals+course"
+    },
+    "Navigation": {
+        "title": "Aviation Navigation Basics - YouTube",
+        "link": "https://www.youtube.com/results?search_query=aviation+navigation+basics"
+    },
+    "Technical Skills": {
+        "title": "Technical Skills Development Course - Coursera",
+        "link": "https://www.coursera.org/learn/technical-support-fundamentals"
+    },
+    "Discipline": {
+        "title": "Self Discipline and Productivity Course - Coursera",
+        "link": "https://www.coursera.org/learn/learning-how-to-learn"
+    },
+    "Exercise Science": {
+        "title": "Exercise Science Basics - Coursera",
+        "link": "https://www.coursera.org/courses?query=exercise%20science"
+    },
+    "Nutrition": {
+        "title": "Nutrition and Wellness Course - Coursera",
+        "link": "https://www.coursera.org/learn/childnutrition"
+    },
+    "Physical Fitness": {
+        "title": "Fitness Trainer Foundations - Alison",
+        "link": "https://alison.com/"
+    },
+    "Camera Skills": {
+        "title": "Photography Basics and Camera Skills - Coursera",
+        "link": "https://www.coursera.org/specializations/photography-basics"
+    },
+    "Instrument Mastery": {
+        "title": "Music Production and Instrument Learning - Coursera",
+        "link": "https://www.coursera.org/specializations/music-production"
+    },
+    "Collaboration": {
+        "title": "Teamwork and Collaboration Skills - Coursera",
+        "link": "https://www.coursera.org/learn/teamwork-skills-effective-communication"
+    },
+    "Public Presence": {
+        "title": "Public Speaking and Presence - Coursera",
+        "link": "https://www.coursera.org/specializations/public-speaking"
+    },
+    "Emotional Intelligence": {
+        "title": "Emotional Intelligence Course - Coursera",
+        "link": "https://www.coursera.org/learn/emotional-intelligence"
+    },
+    "Advocacy": {
+        "title": "Social Advocacy and Community Work - Coursera",
+        "link": "https://www.coursera.org/courses?query=advocacy"
+    },
+    "Sales": {
+        "title": "Sales Training for Beginners - HubSpot Academy",
+        "link": "https://academy.hubspot.com/courses/sales"
+    }
+}

@@ -1,0 +1,1022 @@
+{
+    "Data Science": [
+        {
+            "question": "Which Python library is primarily used for data manipulation?",
+            "options": ["Pandas", "React", "TensorFlow", "Node.js"],
+            "answer": "Pandas"
+        },
+        {
+            "question": "Which SQL statement is used to retrieve data?",
+            "options": ["SELECT", "INSERT", "DELETE", "UPDATE"],
+            "answer": "SELECT"
+        },
+        {
+            "question": "Which algorithm is commonly used for classification?",
+            "options": ["Random Forest", "K-Means", "Apriori", "Linear Search"],
+            "answer": "Random Forest"
+        },
+        {
+            "question": "What does CSV stand for?",
+            "options": ["Comma Separated Values", "Central System Variables", "Computer Sorted Values", "Control Storage Value"],
+            "answer": "Comma Separated Values"
+        },
+        {
+            "question": "Which metric measures average absolute error?",
+            "options": ["MAE", "MSE", "R2 Score", "Accuracy"],
+            "answer": "MAE"
+        },
+        {
+            "question": "Which library is used for numerical computing in Python?",
+            "options": ["NumPy", "HTML", "CSS", "Bootstrap"],
+            "answer": "NumPy"
+        },
+        {
+            "question": "Which visualization library is widely used in Python?",
+            "options": ["Matplotlib", "Flask", "Django", "Node.js"],
+            "answer": "Matplotlib"
+        },
+        {
+            "question": "Which term refers to cleaning raw data?",
+            "options": ["Data Preprocessing", "Deployment", "Debugging", "Scraping"],
+            "answer": "Data Preprocessing"
+        },
+        {
+            "question": "What is overfitting in machine learning?",
+            "options": ["Model memorizes training data", "Model ignores data", "Database issue", "Visualization problem"],
+            "answer": "Model memorizes training data"
+        },
+        {
+            "question": "Which method splits dataset for testing and training?",
+            "options": ["Train-Test Split", "Normalization", "Encoding", "Visualization"],
+            "answer": "Train-Test Split"
+        },
+        {
+            "question": "Which type of learning uses labeled data?",
+            "options": ["Supervised Learning", "Unsupervised Learning", "Reinforcement Learning", "Transfer Learning"],
+            "answer": "Supervised Learning"
+        },
+        {
+            "question": "Which type of chart is best for showing distribution?",
+            "options": ["Histogram", "Pie Chart", "Line Chart", "Scatter Plot"],
+            "answer": "Histogram"
+        },
+        {
+            "question": "What does null value mean?",
+            "options": ["Missing data", "Zero", "False", "Duplicate"],
+            "answer": "Missing data"
+        },
+        {
+            "question": "Which statistical measure represents central tendency?",
+            "options": ["Mean", "Variance", "Standard Deviation", "Range"],
+            "answer": "Mean"
+        },
+        {
+            "question": "Which process converts categorical data into numerical form?",
+            "options": ["Encoding", "Sorting", "Filtering", "Scaling"],
+            "answer": "Encoding"
+        },
+        {
+            "question": "Which machine learning library is popular in Python?",
+            "options": ["Scikit-learn", "Laravel", "React", "Tailwind"],
+            "answer": "Scikit-learn"
+        },
+        {
+            "question": "What is data visualization used for?",
+            "options": ["Understanding patterns", "Cooking", "Gaming", "Coding websites"],
+            "answer": "Understanding patterns"
+        },
+        {
+            "question": "Which database is relational?",
+            "options": ["MySQL", "MongoDB", "Firebase", "Redis"],
+            "answer": "MySQL"
+        },
+        {
+            "question": "What does AI stand for?",
+            "options": ["Artificial Intelligence", "Automated Interface", "Applied Integration", "Analog Input"],
+            "answer": "Artificial Intelligence"
+        },
+        {
+            "question": "Which evaluation metric is used for classification accuracy?",
+            "options": ["Accuracy Score", "MAE", "RMSE", "Variance"],
+            "answer": "Accuracy Score"
+        }
+    ],
+    "AI/ML": [
+        {
+            "question": "Which programming language is most commonly used in AI/ML?",
+            "options": ["Python", "HTML", "CSS", "PHP"],
+            "answer": "Python"
+        },
+        {
+            "question": "What does ML stand for?",
+            "options": ["Machine Learning", "Model Logic", "Machine Logic", "Meta Learning"],
+            "answer": "Machine Learning"
+        },
+        {
+            "question": "Which framework is widely used for deep learning?",
+            "options": ["TensorFlow", "Bootstrap", "Canva", "Node.js"],
+            "answer": "TensorFlow"
+        },
+        {
+            "question": "Which type of learning uses unlabeled data?",
+            "options": ["Unsupervised Learning", "Supervised Learning", "Reinforcement Learning", "Transfer Learning"],
+            "answer": "Unsupervised Learning"
+        },
+        {
+            "question": "What does NLP stand for?",
+            "options": ["Natural Language Processing", "Neural Logic Processing", "Natural Learning Process", "Network Language Protocol"],
+            "answer": "Natural Language Processing"
+        },
+        {
+            "question": "Which neural network is commonly used for image processing?",
+            "options": ["CNN", "RNN", "SVM", "KNN"],
+            "answer": "CNN"
+        },
+        {
+            "question": "Which neural network is commonly used for sequential data?",
+            "options": ["RNN", "CNN", "Decision Tree", "Naive Bayes"],
+            "answer": "RNN"
+        },
+        {
+            "question": "What is overfitting?",
+            "options": ["Model memorizes training data", "Model performs perfectly", "Data cleaning process", "Visualization issue"],
+            "answer": "Model memorizes training data"
+        },
+        {
+            "question": "Which algorithm is used for classification?",
+            "options": ["Random Forest", "K-Means", "Apriori", "PCA"],
+            "answer": "Random Forest"
+        },
+        {
+            "question": "Which algorithm is commonly used for clustering?",
+            "options": ["K-Means", "Linear Regression", "Random Forest", "CNN"],
+            "answer": "K-Means"
+        },
+        {
+            "question": "What does GPU stand for?",
+            "options": ["Graphics Processing Unit", "General Processing Unit", "Global Programming Unit", "Graphical Program Utility"],
+            "answer": "Graphics Processing Unit"
+        },
+        {
+            "question": "Which library is widely used for machine learning in Python?",
+            "options": ["Scikit-learn", "React", "Laravel", "Flutter"],
+            "answer": "Scikit-learn"
+        },
+        {
+            "question": "Which concept improves model performance by reducing dimensionality?",
+            "options": ["PCA", "SEO", "SQL", "Node.js"],
+            "answer": "PCA"
+        },
+        {
+            "question": "Which branch of AI focuses on language understanding?",
+            "options": ["NLP", "Computer Vision", "Robotics", "Cybersecurity"],
+            "answer": "NLP"
+        },
+        {
+            "question": "What is reinforcement learning based on?",
+            "options": ["Rewards and penalties", "Static datasets", "Manual coding", "Sorting algorithms"],
+            "answer": "Rewards and penalties"
+        },
+        {
+            "question": "Which model is used for decision boundaries?",
+            "options": ["SVM", "HTML", "CSS", "Bootstrap"],
+            "answer": "SVM"
+        },
+        {
+            "question": "Which metric is used for classification evaluation?",
+            "options": ["Accuracy", "MSE", "RMSE", "Variance"],
+            "answer": "Accuracy"
+        },
+        {
+            "question": "What does dataset splitting help with?",
+            "options": ["Testing model performance", "Cooking", "Branding", "UI design"],
+            "answer": "Testing model performance"
+        },
+        {
+            "question": "Which field focuses on image recognition?",
+            "options": ["Computer Vision", "NLP", "SEO", "Accounting"],
+            "answer": "Computer Vision"
+        },
+        {
+            "question": "What is the main goal of AI?",
+            "options": ["Simulate intelligent behavior", "Build websites", "Manage databases", "Edit videos"],
+            "answer": "Simulate intelligent behavior"
+        }
+    ],
+    "Cybersecurity": [
+        {
+            "question": "Which operating system is widely used in cybersecurity?",
+            "options": ["Linux", "Windows Paint", "Canva", "Excel"],
+            "answer": "Linux"
+        },
+        {
+            "question": "What is phishing?",
+            "options": ["Cyber attack", "Fishing technique", "Programming language", "Database system"],
+            "answer": "Cyber attack"
+        },
+        {
+            "question": "Which tool is commonly used for penetration testing?",
+            "options": ["Metasploit", "React", "Photoshop", "TensorFlow"],
+            "answer": "Metasploit"
+        },
+        {
+            "question": "What does VPN stand for?",
+            "options": ["Virtual Private Network", "Verified Public Network", "Visual Program Node", "Virtual Protocol Name"],
+            "answer": "Virtual Private Network"
+        },
+        {
+            "question": "Which protects network traffic?",
+            "options": ["Firewall", "HTML", "CSS", "SQL"],
+            "answer": "Firewall"
+        },
+        {
+            "question": "What is malware?",
+            "options": ["Malicious software", "Networking protocol", "Database error", "Coding framework"],
+            "answer": "Malicious software"
+        },
+        {
+            "question": "Which field secures communication through encryption?",
+            "options": ["Cryptography", "SEO", "Cooking", "Branding"],
+            "answer": "Cryptography"
+        },
+        {
+            "question": "What does DDoS stand for?",
+            "options": ["Distributed Denial of Service", "Data Distribution of Security", "Digital Defense System", "Distributed Database Service"],
+            "answer": "Distributed Denial of Service"
+        },
+        {
+            "question": "Which type of hacker is ethical?",
+            "options": ["White Hat", "Black Hat", "Grey Screen", "Red Node"],
+            "answer": "White Hat"
+        },
+        {
+            "question": "What is the purpose of antivirus software?",
+            "options": ["Detect and remove malware", "Design websites", "Improve SEO", "Store data"],
+            "answer": "Detect and remove malware"
+        },
+        {
+            "question": "Which protocol secures websites?",
+            "options": ["HTTPS", "HTTP", "FTP", "SMTP"],
+            "answer": "HTTPS"
+        },
+        {
+            "question": "What is brute force attack?",
+            "options": ["Trying multiple password combinations", "Data cleaning", "Web development", "Graphic design"],
+            "answer": "Trying multiple password combinations"
+        },
+        {
+            "question": "Which authentication is more secure?",
+            "options": ["Two-factor authentication", "Single password", "Username only", "Public login"],
+            "answer": "Two-factor authentication"
+        },
+        {
+            "question": "What is social engineering?",
+            "options": ["Manipulating people for access", "Software design", "Cloud computing", "Database tuning"],
+            "answer": "Manipulating people for access"
+        },
+        {
+            "question": "Which command-line tool scans networks?",
+            "options": ["Nmap", "React", "Pandas", "Excel"],
+            "answer": "Nmap"
+        },
+        {
+            "question": "What is ransomware?",
+            "options": ["Malware demanding payment", "Database software", "Firewall type", "Encryption standard"],
+            "answer": "Malware demanding payment"
+        },
+        {
+            "question": "Which principle limits user permissions?",
+            "options": ["Least Privilege", "Maximum Access", "Open Access", "Root Access"],
+            "answer": "Least Privilege"
+        },
+        {
+            "question": "What is penetration testing?",
+            "options": ["Testing system security vulnerabilities", "Building websites", "Writing code", "Marketing analysis"],
+            "answer": "Testing system security vulnerabilities"
+        },
+        {
+            "question": "Which security measure monitors suspicious activity?",
+            "options": ["Intrusion Detection System", "HTML", "CSS", "Photoshop"],
+            "answer": "Intrusion Detection System"
+        },
+        {
+            "question": "What is the primary goal of cybersecurity?",
+            "options": ["Protect systems and data", "Create apps", "Improve design", "Boost sales"],
+            "answer": "Protect systems and data"
+        }
+    ],
+    "Doctor": [
+        {
+            "question": "Which organ pumps blood throughout the human body?",
+            "options": ["Heart", "Liver", "Kidney", "Lungs"],
+            "answer": "Heart"
+        },
+        {
+            "question": "What does ECG stand for?",
+            "options": ["Electrocardiogram", "Electronic Cell Graph", "Emergency Care Guide", "External Cardiac Gauge"],
+            "answer": "Electrocardiogram"
+        },
+        {
+            "question": "Which blood cells fight infection?",
+            "options": ["White Blood Cells", "Red Blood Cells", "Platelets", "Plasma"],
+            "answer": "White Blood Cells"
+        },
+        {
+            "question": "What is the normal human body temperature?",
+            "options": ["98.6°F", "90°F", "102°F", "95°F"],
+            "answer": "98.6°F"
+        },
+        {
+            "question": "Which vitamin is mainly produced by sunlight exposure?",
+            "options": ["Vitamin D", "Vitamin A", "Vitamin C", "Vitamin B12"],
+            "answer": "Vitamin D"
+        },
+        {
+            "question": "What is hypertension?",
+            "options": ["High blood pressure", "Low sugar", "Heart attack", "Fever"],
+            "answer": "High blood pressure"
+        },
+        {
+            "question": "Which organ is primarily responsible for detoxification?",
+            "options": ["Liver", "Heart", "Brain", "Lungs"],
+            "answer": "Liver"
+        },
+        {
+            "question": "What does CPR stand for?",
+            "options": ["Cardiopulmonary Resuscitation", "Cardiac Pulse Recovery", "Clinical Patient Response", "Central Pressure Regulation"],
+            "answer": "Cardiopulmonary Resuscitation"
+        },
+        {
+            "question": "Which system controls hormones in the body?",
+            "options": ["Endocrine System", "Digestive System", "Respiratory System", "Nervous System"],
+            "answer": "Endocrine System"
+        },
+        {
+            "question": "Which disease is caused by insulin deficiency?",
+            "options": ["Diabetes", "Hypertension", "Asthma", "Tuberculosis"],
+            "answer": "Diabetes"
+        },
+        {
+            "question": "What is the main function of the kidneys?",
+            "options": ["Filter blood", "Pump oxygen", "Digest food", "Control movement"],
+            "answer": "Filter blood"
+        },
+        {
+            "question": "Which imaging technique uses X-rays?",
+            "options": ["CT Scan", "MRI", "Ultrasound", "ECG"],
+            "answer": "CT Scan"
+        },
+        {
+            "question": "What is anemia?",
+            "options": ["Low red blood cells", "High blood sugar", "Bone fracture", "Kidney infection"],
+            "answer": "Low red blood cells"
+        },
+        {
+            "question": "Which medical professional performs surgery?",
+            "options": ["Surgeon", "Pharmacist", "Psychologist", "Nutritionist"],
+            "answer": "Surgeon"
+        },
+        {
+            "question": "What is the universal donor blood type?",
+            "options": ["O Negative", "A Positive", "B Positive", "AB Positive"],
+            "answer": "O Negative"
+        },
+        {
+            "question": "Which organ is affected by hepatitis?",
+            "options": ["Liver", "Heart", "Brain", "Lungs"],
+            "answer": "Liver"
+        },
+        {
+            "question": "What does diagnosis mean?",
+            "options": ["Identifying a disease", "Treating a patient", "Performing surgery", "Writing prescriptions"],
+            "answer": "Identifying a disease"
+        },
+        {
+            "question": "Which branch of medicine deals with children?",
+            "options": ["Pediatrics", "Cardiology", "Neurology", "Dermatology"],
+            "answer": "Pediatrics"
+        },
+        {
+            "question": "Which instrument is used to listen to heart sounds?",
+            "options": ["Stethoscope", "Thermometer", "Scalpel", "Syringe"],
+            "answer": "Stethoscope"
+        },
+        {
+            "question": "What is the primary goal of a doctor?",
+            "options": ["Diagnose and treat patients", "Design hospitals", "Sell medicines", "Manage insurance"],
+            "answer": "Diagnose and treat patients"
+        }
+    ],
+    "Lawyer": [
+        {
+            "question": "What is the primary role of a lawyer?",
+            "options": ["Provide legal advice and representation", "Perform surgery", "Teach students", "Manage finances"],
+            "answer": "Provide legal advice and representation"
+        },
+        {
+            "question": "Which document outlines the fundamental laws of a country?",
+            "options": ["Constitution", "Invoice", "Resume", "Passport"],
+            "answer": "Constitution"
+        },
+        {
+            "question": "What does litigation mean?",
+            "options": ["Legal process in court", "Medical treatment", "Business marketing", "Software testing"],
+            "answer": "Legal process in court"
+        },
+        {
+            "question": "Which skill is crucial for lawyers?",
+            "options": ["Argumentation", "Cooking", "Graphic Design", "Programming"],
+            "answer": "Argumentation"
+        },
+        {
+            "question": "What is a contract?",
+            "options": ["Legally binding agreement", "Medical report", "Tax document", "School syllabus"],
+            "answer": "Legally binding agreement"
+        },
+        {
+            "question": "Who presides over court proceedings?",
+            "options": ["Judge", "Teacher", "Doctor", "Engineer"],
+            "answer": "Judge"
+        },
+        {
+            "question": "What is evidence in legal terms?",
+            "options": ["Proof presented in court", "Random opinion", "Marketing strategy", "Design concept"],
+            "answer": "Proof presented in court"
+        },
+        {
+            "question": "What does prosecution represent?",
+            "options": ["State against accused", "Defense of accused", "Medical support", "Financial planning"],
+            "answer": "State against accused"
+        },
+        {
+            "question": "Which branch of law handles criminal offenses?",
+            "options": ["Criminal Law", "Corporate Law", "Civil Engineering", "Digital Marketing"],
+            "answer": "Criminal Law"
+        },
+        {
+            "question": "What is cross-examination?",
+            "options": ["Questioning opposing witness", "Medical test", "Coding interview", "Marketing research"],
+            "answer": "Questioning opposing witness"
+        },
+        {
+            "question": "What does legal research involve?",
+            "options": ["Studying laws and cases", "Building websites", "Cooking recipes", "Designing graphics"],
+            "answer": "Studying laws and cases"
+        },
+        {
+            "question": "What is negotiation in law?",
+            "options": ["Resolving disputes through discussion", "Performing surgery", "Teaching", "Programming"],
+            "answer": "Resolving disputes through discussion"
+        },
+        {
+            "question": "Which court handles the highest appeals?",
+            "options": ["Supreme Court", "District Court", "Family Court", "Traffic Court"],
+            "answer": "Supreme Court"
+        },
+        {
+            "question": "What is a plaintiff?",
+            "options": ["Person bringing a lawsuit", "Judge", "Police officer", "Defendant’s lawyer"],
+            "answer": "Person bringing a lawsuit"
+        },
+        {
+            "question": "What is a defendant?",
+            "options": ["Person accused or sued", "Judge", "Teacher", "Doctor"],
+            "answer": "Person accused or sued"
+        },
+        {
+            "question": "What is legal documentation?",
+            "options": ["Preparing official legal papers", "Medical reports", "Graphic design", "Software coding"],
+            "answer": "Preparing official legal papers"
+        },
+        {
+            "question": "What does civil law mainly address?",
+            "options": ["Disputes between individuals", "Criminal punishment", "Medical treatment", "Engineering design"],
+            "answer": "Disputes between individuals"
+        },
+        {
+            "question": "Which legal skill helps persuade courts?",
+            "options": ["Public Speaking", "Painting", "Cooking", "Programming"],
+            "answer": "Public Speaking"
+        },
+        {
+            "question": "What is intellectual property law concerned with?",
+            "options": ["Protecting creations and inventions", "Healthcare", "Sports", "Construction"],
+            "answer": "Protecting creations and inventions"
+        },
+        {
+            "question": "What is the ultimate goal of law practice?",
+            "options": ["Ensure justice and legal rights", "Sell products", "Develop software", "Manage hotels"],
+            "answer": "Ensure justice and legal rights"
+        }
+    ],
+    "Finance": [
+        {
+            "question": "What does ROI stand for?",
+            "options": ["Return on Investment", "Rate of Income", "Revenue on Interest", "Risk of Investment"],
+            "answer": "Return on Investment"
+        },
+        {
+            "question": "Which statement shows a company’s financial position?",
+            "options": ["Balance Sheet", "Income Statement", "Cash Flow Statement", "Audit Report"],
+            "answer": "Balance Sheet"
+        },
+        {
+            "question": "What is diversification in investing?",
+            "options": ["Spreading investments to reduce risk", "Buying one stock only", "Saving cash", "Avoiding markets"],
+            "answer": "Spreading investments to reduce risk"
+        },
+        {
+            "question": "Which market involves buying and selling stocks?",
+            "options": ["Stock Market", "Real Estate Market", "Labor Market", "Retail Market"],
+            "answer": "Stock Market"
+        },
+        {
+            "question": "What does IPO stand for?",
+            "options": ["Initial Public Offering", "Internal Profit Option", "Investment Price Order", "International Portfolio Objective"],
+            "answer": "Initial Public Offering"
+        },
+        {
+            "question": "What is a bond?",
+            "options": ["Debt investment", "Equity share", "Savings account", "Insurance policy"],
+            "answer": "Debt investment"
+        },
+        {
+            "question": "Which professional analyzes financial risks?",
+            "options": ["Investment Banker", "Chef", "Teacher", "Designer"],
+            "answer": "Investment Banker"
+        },
+        {
+            "question": "What is inflation?",
+            "options": ["Rise in prices over time", "Stock market crash", "Tax reduction", "Company profit"],
+            "answer": "Rise in prices over time"
+        },
+        {
+            "question": "Which tool is widely used in finance for analysis?",
+            "options": ["Excel", "Photoshop", "Canva", "Node.js"],
+            "answer": "Excel"
+        },
+        {
+            "question": "What does liquidity mean?",
+            "options": ["Ease of converting assets to cash", "Company profit", "Tax liability", "Debt ratio"],
+            "answer": "Ease of converting assets to cash"
+        },
+        {
+            "question": "What is the primary goal of budgeting?",
+            "options": ["Managing income and expenses", "Marketing products", "Building software", "Legal defense"],
+            "answer": "Managing income and expenses"
+        },
+        {
+            "question": "What is equity?",
+            "options": ["Ownership in a company", "Debt obligation", "Tax refund", "Salary bonus"],
+            "answer": "Ownership in a company"
+        },
+        {
+            "question": "Which financial statement shows profitability?",
+            "options": ["Income Statement", "Balance Sheet", "Tax Return", "Payroll Report"],
+            "answer": "Income Statement"
+        },
+        {
+            "question": "What is a mutual fund?",
+            "options": ["Pooled investment vehicle", "Bank account", "Insurance policy", "Loan"],
+            "answer": "Pooled investment vehicle"
+        },
+        {
+            "question": "What is risk assessment in finance?",
+            "options": ["Evaluating investment risks", "Writing contracts", "Designing websites", "Teaching"],
+            "answer": "Evaluating investment risks"
+        },
+        {
+            "question": "What does GAAP stand for?",
+            "options": ["Generally Accepted Accounting Principles", "General Asset Allocation Plan", "Government Audit Application Process", "Global Accounting Assessment Program"],
+            "answer": "Generally Accepted Accounting Principles"
+        },
+        {
+            "question": "Which career focuses on taxation and auditing?",
+            "options": ["Chartered Accountant", "Doctor", "Engineer", "Pilot"],
+            "answer": "Chartered Accountant"
+        },
+        {
+            "question": "What is valuation?",
+            "options": ["Determining asset/company worth", "Tax filing", "Coding process", "Event planning"],
+            "answer": "Determining asset/company worth"
+        },
+        {
+            "question": "What is the purpose of financial forecasting?",
+            "options": ["Predict future financial performance", "Design logos", "Treat patients", "Teach classes"],
+            "answer": "Predict future financial performance"
+        },
+        {
+            "question": "What is the ultimate goal in finance?",
+            "options": ["Manage and grow financial resources", "Build software", "Cook meals", "Design clothes"],
+            "answer": "Manage and grow financial resources"
+        }
+    ],
+    "Fashion Designer": [
+        {
+            "question": "What is the primary role of a fashion designer?",
+            "options": ["Design clothing and accessories", "Perform surgeries", "Teach law", "Manage finances"],
+            "answer": "Design clothing and accessories"
+        },
+        {
+            "question": "Which skill is essential for creating fashion concepts?",
+            "options": ["Sketching", "Programming", "Accounting", "Networking"],
+            "answer": "Sketching"
+        },
+        {
+            "question": "What does textile refer to?",
+            "options": ["Fabric material", "Legal contract", "Medical equipment", "Software tool"],
+            "answer": "Fabric material"
+        },
+        {
+            "question": "Which factor is crucial in fashion trend analysis?",
+            "options": ["Consumer preferences", "Medical diagnosis", "Tax laws", "Coding syntax"],
+            "answer": "Consumer preferences"
+        },
+        {
+            "question": "Which software is commonly used in fashion design presentations?",
+            "options": ["Adobe Illustrator", "SQL", "TensorFlow", "Node.js"],
+            "answer": "Adobe Illustrator"
+        },
+        {
+            "question": "What is haute couture?",
+            "options": ["High-end custom fashion", "Sportswear", "Mass production clothing", "Medical uniform"],
+            "answer": "High-end custom fashion"
+        },
+        {
+            "question": "What is pattern making?",
+            "options": ["Creating templates for garments", "Marketing strategy", "Financial planning", "Legal drafting"],
+            "answer": "Creating templates for garments"
+        },
+        {
+            "question": "Which skill helps construct garments?",
+            "options": ["Sewing", "Programming", "Auditing", "Negotiation"],
+            "answer": "Sewing"
+        },
+        {
+            "question": "What does branding help a fashion designer achieve?",
+            "options": ["Build identity and recognition", "Treat diseases", "Write laws", "Analyze stocks"],
+            "answer": "Build identity and recognition"
+        },
+        {
+            "question": "Which color theory helps designers create appealing outfits?",
+            "options": ["Complementary colors", "Database normalization", "Machine learning", "Taxation"],
+            "answer": "Complementary colors"
+        },
+        {
+            "question": "What is draping in fashion design?",
+            "options": ["Arranging fabric on a dress form", "Marketing campaign", "Accounting process", "Software debugging"],
+            "answer": "Arranging fabric on a dress form"
+        },
+        {
+            "question": "Which event showcases designer collections?",
+            "options": ["Fashion Show", "Hackathon", "Medical Conference", "Court Hearing"],
+            "answer": "Fashion Show"
+        },
+        {
+            "question": "What is sustainable fashion?",
+            "options": ["Eco-friendly clothing design", "Fast production clothing", "Luxury jewelry", "Coding framework"],
+            "answer": "Eco-friendly clothing design"
+        },
+        {
+            "question": "Which fabric is commonly used in luxury fashion?",
+            "options": ["Silk", "Plastic", "Rubber", "Concrete"],
+            "answer": "Silk"
+        },
+        {
+            "question": "What is merchandising in fashion?",
+            "options": ["Promoting and selling fashion products", "Medical treatment", "Teaching", "Coding"],
+            "answer": "Promoting and selling fashion products"
+        },
+        {
+            "question": "Which career requires strong creativity?",
+            "options": ["Fashion Designer", "Chartered Accountant", "Pilot", "Lawyer"],
+            "answer": "Fashion Designer"
+        },
+        {
+            "question": "What is a mood board used for?",
+            "options": ["Visual inspiration and concept planning", "Financial records", "Legal research", "Medical imaging"],
+            "answer": "Visual inspiration and concept planning"
+        },
+        {
+            "question": "What is couture sewing?",
+            "options": ["High-quality garment construction", "Basic stitching only", "Software coding", "Market analysis"],
+            "answer": "High-quality garment construction"
+        },
+        {
+            "question": "Why is creativity important in fashion?",
+            "options": ["To develop unique designs", "To manage taxes", "To diagnose patients", "To write code"],
+            "answer": "To develop unique designs"
+        },
+        {
+            "question": "What is the ultimate goal of fashion design?",
+            "options": ["Create innovative and appealing clothing", "Manage finances", "Treat illness", "Build software"],
+            "answer": "Create innovative and appealing clothing"
+        }
+    ],
+    "Civil Services": [
+        {
+            "question": "What is the primary role of civil servants?",
+            "options": ["Public administration and governance", "Fashion design", "Medical treatment", "Software development"],
+            "answer": "Public administration and governance"
+        },
+        {
+            "question": "Which exam is commonly required for civil services in India?",
+            "options": ["UPSC", "JEE", "NEET", "CAT"],
+            "answer": "UPSC"
+        },
+        {
+            "question": "Which skill is crucial for civil servants?",
+            "options": ["Leadership", "Cooking", "Graphic Design", "Programming"],
+            "answer": "Leadership"
+        },
+        {
+            "question": "What does public policy involve?",
+            "options": ["Government decision-making", "Fashion trends", "Website building", "Music composition"],
+            "answer": "Government decision-making"
+        },
+        {
+            "question": "Which subject is essential for civil services preparation?",
+            "options": ["General Knowledge", "Textile Design", "Photography", "Video Editing"],
+            "answer": "General Knowledge"
+        },
+        {
+            "question": "What is governance?",
+            "options": ["Administration of public affairs", "Cooking methods", "Medical diagnosis", "Fashion branding"],
+            "answer": "Administration of public affairs"
+        },
+        {
+            "question": "Which branch handles law and order?",
+            "options": ["Administrative Services", "Fashion Industry", "Music Industry", "Graphic Design"],
+            "answer": "Administrative Services"
+        },
+        {
+            "question": "Why is communication important in civil services?",
+            "options": ["Effective public interaction", "Sewing garments", "Coding apps", "Editing videos"],
+            "answer": "Effective public interaction"
+        },
+        {
+            "question": "What is bureaucracy?",
+            "options": ["System of government administration", "Fashion business", "Software company", "Medical organization"],
+            "answer": "System of government administration"
+        },
+        {
+            "question": "Which skill helps in decision-making?",
+            "options": ["Critical Thinking", "Painting", "Cooking", "Photography"],
+            "answer": "Critical Thinking"
+        },
+        {
+            "question": "What is policy implementation?",
+            "options": ["Executing government plans", "Launching fashion brands", "Writing software", "Producing films"],
+            "answer": "Executing government plans"
+        },
+        {
+            "question": "Which level of government serves citizens directly?",
+            "options": ["Public Administration", "Corporate Office", "Fashion Studio", "Music Label"],
+            "answer": "Public Administration"
+        },
+        {
+            "question": "What does diplomacy involve?",
+            "options": ["Managing international relations", "Designing clothes", "Performing surgeries", "Teaching students"],
+            "answer": "Managing international relations"
+        },
+        {
+            "question": "Which department manages public welfare?",
+            "options": ["Civil Services", "Investment Banking", "Graphic Design", "Film Production"],
+            "answer": "Civil Services"
+        },
+        {
+            "question": "Why is ethics important in civil services?",
+            "options": ["Ensures fair governance", "Improves fashion creativity", "Enhances coding", "Supports cooking"],
+            "answer": "Ensures fair governance"
+        },
+        {
+            "question": "What is administrative law?",
+            "options": ["Rules governing public administration", "Fashion law", "Medical law", "Sports law"],
+            "answer": "Rules governing public administration"
+        },
+        {
+            "question": "What is public accountability?",
+            "options": ["Responsibility to citizens", "Business profit", "Fashion branding", "Coding quality"],
+            "answer": "Responsibility to citizens"
+        },
+        {
+            "question": "Which skill supports policy analysis?",
+            "options": ["Research", "Cooking", "Photography", "Editing"],
+            "answer": "Research"
+        },
+        {
+            "question": "What is the role of district administration?",
+            "options": ["Local governance and management", "Medical research", "Software deployment", "Fashion promotion"],
+            "answer": "Local governance and management"
+        },
+        {
+            "question": "What is the ultimate goal of civil services?",
+            "options": ["Serve society through effective governance", "Build luxury brands", "Create films", "Develop apps"],
+            "answer": "Serve society through effective governance"
+        }
+    ],
+    "Pilot": [
+        {
+            "question": "What is the primary responsibility of a pilot?",
+            "options": ["Operate and navigate aircraft safely", "Design airplanes", "Manage airports", "Sell tickets"],
+            "answer": "Operate and navigate aircraft safely"
+        },
+        {
+            "question": "Which instrument measures altitude in an aircraft?",
+            "options": ["Altimeter", "Compass", "Thermometer", "Radar"],
+            "answer": "Altimeter"
+        },
+        {
+            "question": "What does ATC stand for?",
+            "options": ["Air Traffic Control", "Aircraft Technical Check", "Air Transport Command", "Automatic Travel Coordination"],
+            "answer": "Air Traffic Control"
+        },
+        {
+            "question": "Which skill is essential for pilots?",
+            "options": ["Decision Making", "Graphic Design", "Cooking", "Accounting"],
+            "answer": "Decision Making"
+        },
+        {
+            "question": "What is turbulence?",
+            "options": ["Irregular air movement", "Engine failure", "Landing gear issue", "Navigation route"],
+            "answer": "Irregular air movement"
+        },
+        {
+            "question": "Which system helps pilots determine direction?",
+            "options": ["Navigation System", "Marketing System", "Accounting System", "Design System"],
+            "answer": "Navigation System"
+        },
+        {
+            "question": "What does a black box record?",
+            "options": ["Flight data and cockpit audio", "Passenger tickets", "Fuel costs", "Weather reports"],
+            "answer": "Flight data and cockpit audio"
+        },
+        {
+            "question": "Which license is required to become a commercial pilot?",
+            "options": ["Commercial Pilot License", "Driver’s License", "Business License", "Medical License"],
+            "answer": "Commercial Pilot License"
+        },
+        {
+            "question": "What does runway mean?",
+            "options": ["Aircraft takeoff and landing strip", "Passenger terminal", "Airport office", "Cargo station"],
+            "answer": "Aircraft takeoff and landing strip"
+        },
+        {
+            "question": "Which weather condition is most dangerous for flying?",
+            "options": ["Thunderstorms", "Sunny skies", "Light breeze", "Clear skies"],
+            "answer": "Thunderstorms"
+        },
+        {
+            "question": "What is cockpit?",
+            "options": ["Pilot control area", "Passenger cabin", "Cargo hold", "Airport terminal"],
+            "answer": "Pilot control area"
+        },
+        {
+            "question": "Why is communication important for pilots?",
+            "options": ["Coordinate with ATC and crew", "Design aircraft", "Manage hotel bookings", "Write legal contracts"],
+            "answer": "Coordinate with ATC and crew"
+        },
+        {
+            "question": "What is an emergency landing?",
+            "options": ["Unexpected landing due to urgent issue", "Regular landing", "Cargo unloading", "Passenger boarding"],
+            "answer": "Unexpected landing due to urgent issue"
+        },
+        {
+            "question": "Which fuel is commonly used in commercial aircraft?",
+            "options": ["Jet Fuel", "Diesel", "Petrol", "Electricity"],
+            "answer": "Jet Fuel"
+        },
+        {
+            "question": "What is autopilot?",
+            "options": ["Automatic flight control system", "Backup engine", "Navigation map", "Fuel monitor"],
+            "answer": "Automatic flight control system"
+        },
+        {
+            "question": "What is aviation meteorology?",
+            "options": ["Weather study for aviation", "Aircraft engineering", "Airport design", "Business management"],
+            "answer": "Weather study for aviation"
+        },
+        {
+            "question": "Why is discipline crucial for pilots?",
+            "options": ["Ensures safety and protocol adherence", "Improves fashion design", "Boosts marketing", "Enhances cooking"],
+            "answer": "Ensures safety and protocol adherence"
+        },
+        {
+            "question": "What does takeoff mean?",
+            "options": ["Aircraft leaving the ground", "Landing", "Taxiing", "Boarding passengers"],
+            "answer": "Aircraft leaving the ground"
+        },
+        {
+            "question": "Which medical requirement is essential for pilots?",
+            "options": ["Fitness certification", "Fashion training", "Tax knowledge", "Graphic design"],
+            "answer": "Fitness certification"
+        },
+        {
+            "question": "What is the ultimate goal of a pilot?",
+            "options": ["Ensure safe and efficient flight operations", "Design airports", "Sell airline products", "Manage tourism"],
+            "answer": "Ensure safe and efficient flight operations"
+        }
+    ],
+    "Fitness Trainer": [
+        {
+            "question": "What is the primary role of a fitness trainer?",
+            "options": ["Guide clients in exercise and wellness", "Perform surgeries", "Teach law", "Design fashion"],
+            "answer": "Guide clients in exercise and wellness"
+        },
+        {
+            "question": "Which component is essential for muscle growth?",
+            "options": ["Strength Training", "Only cardio", "Sleeping all day", "Skipping meals"],
+            "answer": "Strength Training"
+        },
+        {
+            "question": "What does BMI stand for?",
+            "options": ["Body Mass Index", "Body Muscle Intake", "Basic Movement Indicator", "Balanced Mass Integration"],
+            "answer": "Body Mass Index"
+        },
+        {
+            "question": "Which nutrient is crucial for muscle repair?",
+            "options": ["Protein", "Sugar", "Salt", "Fiber"],
+            "answer": "Protein"
+        },
+        {
+            "question": "Which exercise primarily targets legs?",
+            "options": ["Squats", "Push-ups", "Crunches", "Pull-ups"],
+            "answer": "Squats"
+        },
+        {
+            "question": "What is cardio exercise mainly beneficial for?",
+            "options": ["Heart health", "Only arm growth", "Fashion design", "Legal research"],
+            "answer": "Heart health"
+        },
+        {
+            "question": "Why is hydration important during workouts?",
+            "options": ["Prevents dehydration and improves performance", "Increases coding ability", "Improves fashion sense", "Builds legal knowledge"],
+            "answer": "Prevents dehydration and improves performance"
+        },
+        {
+            "question": "Which skill is essential for fitness trainers?",
+            "options": ["Motivation", "Taxation", "Programming", "Auditing"],
+            "answer": "Motivation"
+        },
+        {
+            "question": "What does flexibility training improve?",
+            "options": ["Range of motion", "Only muscle size", "Accounting", "SEO"],
+            "answer": "Range of motion"
+        },
+        {
+            "question": "Which body system benefits from exercise?",
+            "options": ["All major systems", "Only hair", "Only nails", "None"],
+            "answer": "All major systems"
+        },
+        {
+            "question": "What is HIIT?",
+            "options": ["High-Intensity Interval Training", "Heavy Internal Impact Training", "Health Improvement Instruction Tool", "High Impact Isometric Training"],
+            "answer": "High-Intensity Interval Training"
+        },
+        {
+            "question": "Which exercise targets the core?",
+            "options": ["Plank", "Bench press", "Deadlift only", "Bicep curl"],
+            "answer": "Plank"
+        },
+        {
+            "question": "Why is warm-up important?",
+            "options": ["Prepares body for exercise", "Builds websites", "Teaches finance", "Improves sewing"],
+            "answer": "Prepares body for exercise"
+        },
+        {
+            "question": "What is progressive overload?",
+            "options": ["Gradually increasing workout intensity", "Skipping workouts", "Only stretching", "Reducing nutrition"],
+            "answer": "Gradually increasing workout intensity"
+        },
+        {
+            "question": "Which certification is valuable for trainers?",
+            "options": ["Fitness Certification", "Law Degree", "Medical Surgery License", "Pilot License"],
+            "answer": "Fitness Certification"
+        },
+        {
+            "question": "What is the purpose of cooldown exercises?",
+            "options": ["Help body recover gradually", "Increase coding speed", "Improve tax compliance", "Enhance branding"],
+            "answer": "Help body recover gradually"
+        },
+        {
+            "question": "Which fitness component improves stamina?",
+            "options": ["Endurance Training", "Only stretching", "Accounting", "Fashion sketching"],
+            "answer": "Endurance Training"
+        },
+        {
+            "question": "Why is nutrition planning important?",
+            "options": ["Supports fitness goals", "Improves legal skills", "Teaches software engineering", "Creates garments"],
+            "answer": "Supports fitness goals"
+        },
+        {
+            "question": "What is personal training?",
+            "options": ["Customized fitness coaching", "Medical surgery", "Software deployment", "Hotel management"],
+            "answer": "Customized fitness coaching"
+        },
+        {
+            "question": "What is the ultimate goal of a fitness trainer?",
+            "options": ["Improve clients’ health and fitness", "Build apps", "Design clothes", "Manage investments"],
+            "answer": "Improve clients’ health and fitness"
+        }
+    ]
+}

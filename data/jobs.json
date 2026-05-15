@@ -1,0 +1,92 @@
+{
+    "Data Science": {
+        "required_skills": ["Python", "SQL", "Machine Learning", "Statistics", "Pandas", "Data Visualization"]
+    },
+    "Web Development": {
+        "required_skills": ["HTML", "CSS", "JavaScript", "React", "Node.js", "Databases"]
+    },
+    "AI/ML": {
+        "required_skills": ["Python", "Machine Learning", "Deep Learning", "TensorFlow", "NLP", "Mathematics"]
+    },
+    "Cybersecurity": {
+        "required_skills": ["Networking", "Linux", "Ethical Hacking", "Cryptography", "Python", "Security Tools"]
+    },
+    "Software Engineering": {
+        "required_skills": ["Python", "Java", "Data Structures", "Algorithms", "System Design", "Databases"]
+    },
+    "Doctor": {
+        "required_skills": ["Medical Knowledge", "Diagnosis", "Patient Care", "Surgery Basics", "Communication", "Critical Thinking"]
+    },
+    "Nurse": {
+        "required_skills": ["Patient Care", "Medical Procedures", "Communication", "Emergency Response", "Empathy", "Record Keeping"]
+    },
+    "Psychologist": {
+        "required_skills": ["Counseling", "Behavior Analysis", "Communication", "Research", "Mental Health Assessment", "Empathy"]
+    },
+    "Lawyer": {
+        "required_skills": ["Legal Research", "Argumentation", "Public Speaking", "Critical Thinking", "Negotiation", "Documentation"]
+    },
+    "Teacher": {
+        "required_skills": ["Subject Knowledge", "Communication", "Lesson Planning", "Classroom Management", "Patience", "Assessment"]
+    },
+    "Professor": {
+        "required_skills": ["Research", "Teaching", "Academic Writing", "Public Speaking", "Mentorship", "Curriculum Design"]
+    },
+    "Chartered Accountant": {
+        "required_skills": ["Accounting", "Taxation", "Auditing", "Financial Reporting", "Excel", "Compliance"]
+    },
+    "Investment Banker": {
+        "required_skills": ["Finance", "Market Analysis", "Excel", "Negotiation", "Valuation", "Risk Assessment"]
+    },
+    "Entrepreneur": {
+        "required_skills": ["Leadership", "Business Strategy", "Networking", "Marketing", "Finance", "Problem Solving"]
+    },
+    "Digital Marketing": {
+        "required_skills": ["SEO", "Social Media", "Content Marketing", "Branding", "Analytics", "Advertising"]
+    },
+    "Content Creator": {
+        "required_skills": ["Video Editing", "Creativity", "Communication", "Branding", "Social Media", "Storytelling"]
+    },
+    "Graphic Designer": {
+        "required_skills": ["Photoshop", "Illustrator", "Creativity", "Branding", "Typography", "UI Basics"]
+    },
+    "Fashion Designer": {
+        "required_skills": ["Creativity", "Textile Knowledge", "Sketching", "Trend Analysis", "Sewing", "Branding"]
+    },
+    "Chef": {
+        "required_skills": ["Cooking", "Recipe Development", "Time Management", "Presentation", "Food Safety", "Creativity"]
+    },
+    "Hotel Management": {
+        "required_skills": ["Hospitality", "Customer Service", "Management", "Communication", "Event Planning", "Leadership"]
+    },
+    "Journalist": {
+        "required_skills": ["Writing", "Research", "Interviewing", "Communication", "Editing", "Storytelling"]
+    },
+    "Civil Services": {
+        "required_skills": ["General Knowledge", "Policy Understanding", "Leadership", "Communication", "Administration", "Critical Thinking"]
+    },
+    "Pilot": {
+        "required_skills": ["Aviation Knowledge", "Navigation", "Decision Making", "Technical Skills", "Discipline", "Communication"]
+    },
+    "Fitness Trainer": {
+        "required_skills": ["Exercise Science", "Nutrition", "Motivation", "Communication", "Physical Fitness", "Planning"]
+    },
+    "Photographer": {
+        "required_skills": ["Camera Skills", "Editing", "Creativity", "Lighting", "Branding", "Storytelling"]
+    },
+    "Musician": {
+        "required_skills": ["Instrument Mastery", "Creativity", "Performance", "Composition", "Practice Discipline", "Collaboration"]
+    },
+    "Actor": {
+        "required_skills": ["Performance", "Communication", "Creativity", "Emotional Intelligence", "Public Presence", "Networking"]
+    },
+    "Social Worker": {
+        "required_skills": ["Empathy", "Counseling", "Community Outreach", "Problem Solving", "Communication", "Advocacy"]
+    },
+    "Event Manager": {
+        "required_skills": ["Planning", "Communication", "Budgeting", "Leadership", "Creativity", "Negotiation"]
+    },
+    "Real Estate Agent": {
+        "required_skills": ["Sales", "Negotiation", "Market Knowledge", "Networking", "Customer Service", "Communication"]
+    }
+}

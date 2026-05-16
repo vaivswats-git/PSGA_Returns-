@@ -53,36 +53,36 @@ def dashboard_page(username):
     )
 
     # -----------------------------
-# CAREER PREDICTION
-# -----------------------------
-if section == "Career Prediction":
-    st.header("Career Prediction")
+    # CAREER PREDICTION
+    # -----------------------------
+    if section == "Career Prediction":
+        st.header("Career Prediction")
 
-    # Show current skills
-    st.subheader("Your Current Skills")
-    st.write(", ".join(user["skills"]))
+        # Show current skills
+        st.subheader("Your Current Skills")
+        st.write(", ".join(user["skills"]))
 
-    # Skill editing
-    updated_skills = st.text_area(
-        "Edit your skills (comma separated)",
-        value=", ".join(user["skills"])
-    )
+        # Skill editing
+        updated_skills = st.text_area(
+            "Edit your skills (comma separated)",
+            value=", ".join(user["skills"])
+        )
 
-    if st.button("Update Skills"):
-        new_skills = [
-            skill.strip()
-            for skill in updated_skills.split(",")
-            if skill.strip()
-        ]
+        if st.button("Update Skills"):
+            new_skills = [
+                skill.strip()
+                for skill in updated_skills.split(",")
+                if skill.strip()
+            ]
 
-        user["skills"] = new_skills
+            user["skills"] = new_skills
 
-        users_data["users"][username]["skills"] = new_skills
+            users["skills"] = new_skills
 
-        with open("users.json", "w", encoding="utf-8") as file:
-            json.dump(users_data, file, indent=4)
+            with open("users.json", "w", encoding="utf-8") as file:
+                json.dump({"users": users}, file, indent=4)
 
-        st.success("Skills updated successfully!")
+            st.success("Skills updated successfully!")
 
     # Predict updated career
     predicted_career = predict_career(user["skills"])

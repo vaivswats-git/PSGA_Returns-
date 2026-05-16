@@ -53,24 +53,51 @@ def dashboard_page(username):
     )
 
     # -----------------------------
-    # CAREER PREDICTION
-    # -----------------------------
-    if section == "Career Prediction":
-        st.header(" Career Prediction")
+# CAREER PREDICTION
+# -----------------------------
+if section == "Career Prediction":
+    st.header("Career Prediction")
 
-        predicted_career = predict_career(user["skills"])
+    # Show current skills
+    st.subheader("Your Current Skills")
+    st.write(", ".join(user["skills"]))
 
-        st.success(f"Predicted Career Path: {predicted_career}")
+    # Skill editing
+    updated_skills = st.text_area(
+        "Edit your skills (comma separated)",
+        value=", ".join(user["skills"])
+    )
 
-        st.subheader(" Recommended Companies")
+    if st.button("Update Skills"):
+        new_skills = [
+            skill.strip()
+            for skill in updated_skills.split(",")
+            if skill.strip()
+        ]
 
-        if predicted_career in companies_data:
-            cols = st.columns(3)
+        user["skills"] = new_skills
 
-            for idx, company in enumerate(companies_data[predicted_career]):
-                with cols[idx % 3]:
-                    st.info(company)
+        users_data["users"][username]["skills"] = new_skills
 
+        with open("users.json", "w", encoding="utf-8") as file:
+            json.dump(users_data, file, indent=4)
+
+        st.success("Skills updated successfully!")
+
+    # Predict updated career
+    predicted_career = predict_career(user["skills"])
+
+    st.success(f"Predicted Career Path: {predicted_career}")
+
+    # Recommended companies
+    st.subheader("Recommended Companies")
+
+    if predicted_career in companies_data:
+        cols = st.columns(3)
+
+        for idx, company in enumerate(companies_data[predicted_career]):
+            with cols[idx % 3]:
+                st.info(company)
     # -----------------------------
 # SKILL GAP ANALYSIS
 # -----------------------------

@@ -84,20 +84,20 @@ def dashboard_page(username):
 
             st.success("Skills updated successfully!")
 
-    # Predict updated career
-    predicted_career = predict_career(user["skills"])
+        # Predict updated career
+        predicted_career = predict_career(user["skills"])
 
-    st.success(f"Predicted Career Path: {predicted_career}")
+        st.success(f"Predicted Career Path: {predicted_career}")
 
-    # Recommended companies
-    st.subheader("Recommended Companies")
+        # Recommended companies
+        st.subheader("Recommended Companies")
 
-    if predicted_career in companies_data:
-        cols = st.columns(3)
+        if predicted_career in companies_data:
+            cols = st.columns(3)
 
-        for idx, company in enumerate(companies_data[predicted_career]):
-            with cols[idx % 3]:
-                st.info(company)
+            for idx, company in enumerate(companies_data[predicted_career]):
+                with cols[idx % 3]:
+                    st.info(company)
     # -----------------------------
 # SKILL GAP ANALYSIS
 # -----------------------------
